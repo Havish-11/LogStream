@@ -49,7 +49,7 @@ LogStream/
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Havish-11/LogStream
 cd LogStream
 
 cd backend && npm install
