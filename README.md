@@ -99,6 +99,8 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 
 If the connection drops, the browser retries automatically and the status shows *Reconnecting*.
 
+Video Demonstration: <https://drive.google.com/file/d/1v5MudRst-OROZ61Dt3uNUXWggSZC5Trt/view?usp=sharing>
+
 ## API Reference
 
 ### `GET /stream?clientId=<id>`
